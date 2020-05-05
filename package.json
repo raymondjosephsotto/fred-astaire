@@ -1,0 +1,24 @@
+{
+	"name": "fred-astaire",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/raymondjosephsotto/fred-astaire.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/raymondjosephsotto/fred-astaire/issues"
+	},
+	"homepage": "https://raymondjosephsotto.github.io/fredastaire",
+	"dependencies": {
+		"gh-pages": "^2.2.0"
+	}
+}
